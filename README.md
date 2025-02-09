@@ -8,7 +8,7 @@ contains frontend code used by vercel to host our dashboard
 # data: 
 contains versions of our artifical data
 
-# adyl.bi
+# adp.ipynb
 where we trained our model
 
 ## Inspiration
