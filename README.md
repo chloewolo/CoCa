@@ -1,9 +1,15 @@
 # CoCa  
 
-Link to dashboard: https://v0-cora-ovghhi.vercel.app/
-hackhers contains frontend code used by vercel to host our dashboard
-data contains versions of our artifical data
-colab is where we trained our model
+# Link to dashboard: 
+https://v0-cora-ovghhi.vercel.app/
+
+# hackhers: 
+contains frontend code used by vercel to host our dashboard
+# data: 
+contains versions of our artifical data
+
+# adyl.bi
+where we trained our model
 
 ## Inspiration
 We were inspired by the ADP company challenge, which highlighted the need for tools that help HR teams proactively improve workplace morale and employee well-being. Workplace harassment, discrimination, and/or bullying can often fly under the radar as victims hesitate to report. This issue led us to create CoCa (CorporateCare), an AI-powered Employee Sentiment Dashboard designed to offer insights into employee behavior by analyzing workplace communication and flagging toxicity.
