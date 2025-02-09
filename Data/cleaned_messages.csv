@@ -1,0 +1,71 @@
+record_id,sender_role,source,timestamp,content,emotion,subtlety,is_discrimination,discrimination_type,severity
+1,employee,email,2024-01-15 08:15:30,im extremely frustrated recent changes our team structure it feels like my contributions are being overlooked,frustration,overt,no,,n/a
+2,employee,text,2024-01-16 09:00:45,i cant believe how unfairly im being treated im so angry right now,anger,overt,no,,n/a
+3,employee,feedback_form,2024-01-17 10:22:10,i feel disrespected undervalued managements decisions are causing me anxiety deep disappointment,anxiety;disappointment,overt,no,,n/a
+4,employee,email,2024-01-18 11:45:00,i am deeply saddened constant criticism lack support it feels unbearable sometimes,sadness,overt,no,,n/a
+5,employee,feedback_form,2024-01-19 14:30:20,recent decisions have left me feeling anxious fearful about my future this company,anxiety;fear,overt,no,,n/a
+6,employee,text,2024-01-20 12:00:00,this outrageous im infuriated way project was handled without our input,anger;frustration,overt,no,,n/a
+7,employee,email,2024-01-21 15:10:05,latest company update has left me feeling completely ignored unappreciated my concerns are not taken seriously,resentment,overt,no,,n/a
+8,employee,feedback_form,2024-01-22 16:25:30,i feel isolated left out important decisions my suggestions are often dismissed if theyre not worth considering,anxiety;isolation;frustration,subtle,no,,n/a
+9,employee,text,2024-01-23 17:00:15,im furious about how new schedule was announced without any consultation,anger,overt,no,,n/a
+10,employee,email,2024-01-24 09:35:50,i feel overwhelmed workload unrecognized efforts lack support disheartening,sadness;frustration,overt,no,,n/a
+11,employee,feedback_form,2024-01-25 13:15:40,sometimes i feel that my suggestions are dismissed because i dont exactly fit culture this team it leaves me questioning if my background seen disadvantage,insecurity;sadness,subtle,no,,n/a
+12,manager,email,2024-01-26 08:05:30,i find it hard work people certain backgrounds frankly i think their way doing things inferior hampers our progress,disdain;anger,overt,yes,racist,high
+13,manager,feedback_form,2024-01-27 09:20:10,your performance has been acceptable but honestly i expected more someone your gender perhaps its matter natural aptitude,condescension,subtle,yes,sexist,high
+14,manager,email,2024-01-28 10:45:00,while i appreciate your creativity your ideas often reflect perspective overly influenced your cultural background we prefer more conventional approach here,condescension;annoyance,subtle,yes,racist,medium
+15,manager,text,2024-01-29 07:50:20,frankly i dont believe women are cut out highpressure negotiations it might be best if you stick roles that suit your natural strengths,condescension,overt,yes,sexist,high
+16,manager,email,2024-01-30 12:40:10,i think your background significant distraction i recommend you focus more assimilating than bringing your unique perspective into play,irritation;condescension,subtle,yes,racist,medium
+17,employee,feedback_form,2024-01-31 15:55:00,i feel betrayed decisions made without considering impact employees it seems only select few are favored,betrayal;sadness,overt,no,,n/a
+18,employee,text,2024-02-01 10:20:05,im extremely dissatisfied current state affairs work nothing being handled correctly,dissatisfaction;frustration,overt,no,,n/a
+19,employee,email,2024-02-02 14:05:45,im anxious irritated constant changes that disrupt my workflow,anxiety;irritation,overt,no,,n/a
+20,employee,feedback_form,2024-02-03 09:10:15,i feel undervalued belittled every time i try speak up meetings,resentment;frustration,overt,no,,n/a
+21,manager,email,2024-02-04 11:12:00,your performance has been lacking i suspect its partly because youre not aggressive your male counterparts,condescension;frustration,subtle,yes,sexist,high
+22,manager,feedback_form,2024-02-05 10:30:00,i expect you work harder but maybe you should consider if this role really meant someone your background,irritation;condescension,overt,yes,racist,high
+23,employee,text,2024-02-06 08:50:00,im really upset that my suggestions are constantly dismissed meetings,anger;disappointment,overt,no,,n/a
+24,manager,email,2024-02-07 09:40:00,your ideas are interesting but they often come off too exotic our traditional work environment,condescension;annoyance,subtle,yes,racist,medium
+25,manager,feedback_form,2024-02-08 12:00:00,i dont think you would be capable handling this task effectively its better suited someone natural aptitude rather than someone who might be too emotional,condescension;frustration,subtle,yes,sexist,high
+26,employee,text,2024-02-09 11:30:00,sometimes it feels like my contributions are just token gesture if im only here fill diversity quota,resentment;sadness,subtle,no,,n/a
+27,manager,email,2024-02-10 14:15:00,your approach problemsolving bit too unconventional perhaps you should consider sticking tried true methods that most your position find comfortable,condescension,subtle,no,,n/a
+28,manager,email,2024-02-11 09:05:00,i believe your performance issues stem your inability fully embrace our companys culture it might be time consider if you really belong here,condescension;frustration,subtle,yes,discriminatory,high
+29,employee,feedback_form,2024-02-12 10:55:00,i feel that some comments meetings are not just criticisms but veiled insults targeting my identity it makes me feel marginalized,sadness;frustration;isolation,subtle,no,,n/a
+30,manager,text,2024-02-13 11:00:00,i dont understand why you need extra time off people your role typically manage their time better dont let minor setbacks affect them so much,irritation;condescension,subtle,yes,sexist,high
+31,employee,email,2024-02-14 08:00:00,i dont think im being considered promotions because im woman,disappointment,overt,yes,sexist,high
+32,manager,text,2024-02-15 11:05:00,your lack dominant traits concerning perhaps leadership isnt right fit you,condescension,overt,yes,sexist,high
+33,employee,email,2024-02-16 09:10:00,im starting feel like my ideas arent valued because im younger than everyone else,anxiety,overt,yes,ageist,medium
+34,manager,email,2024-02-17 10:20:00,your ideas are interesting but they feel too foreign our work environment,condescension,subtle,yes,racist,medium
+35,employee,text,2024-02-18 13:30:10,every time i try speak up meetings it feels like my suggestions are dismissed,frustration,overt,no,,n/a
+36,employee,email,2024-02-19 14:40:00,why does it feel like im being passed over this opportunity my experience should count something,anger,overt,no,,n/a
+37,manager,email,2024-02-20 15:55:00,i prefer work people who understand my way thinking you might find it easier different team,irritation,subtle,yes,racist,low
+38,employee,feedback_form,2024-02-21 16:50:00,i feel like im always judged my lack corporate style its not who i am,insecurity,subtle,yes,classist,medium
+39,manager,email,2024-02-22 17:00:00,you should consider whether youre cut out this position especially challenges youre facing,disdain,subtle,no,,n/a
+40,employee,text,2024-02-23 09:25:30,i cant help but feel that my background problem my career progression here,anxiety,overt,yes,racist,high
+41,employee,email,2024-02-24 11:40:10,its hard me trust decisions when it feels like leaders are different world,disappointment,subtle,yes,discriminatory,medium
+42,manager,text,2024-02-25 12:30:00,sometimes i feel like you are bit too emotional this role toughen up,condescension,overt,yes,sexist,high
+43,employee,feedback_form,2024-02-26 08:55:30,ive been here years yet im still seen new just because my accent,frustration,subtle,yes,racist,high
+44, manager,email,2024-02-27 10:50:00,we need someone who fits our companys culture better you might be better suited elsewhere,condescension,subtle,yes,discriminatory,medium
+45, employee,text,2024-02-28 14:15:30,constant changes are giving me anxiety it feels like i can never catch up,anxiety,subtle,no,,n/a
+46, manager,email,2024-03-01 08:05:40,i think your way dealing things bit unconventional maybe you should consider how others handle it,condescension,subtle,no,,n/a
+47, employee,email,2024-03-02 10:20:00,ive been here longer than most people but i still get overlooked key decisions,resentment,overt,no,,n/a
+48, manager,text,2024-03-03 11:35:30,youre not assertive enough this role leadership requires more aggressive approach,condescension,overt,yes,sexist,high
+49, employee,feedback_form,2024-03-04 09:50:10,sometimes it feels like im only one who cares about these issues its exhausting,frustration,subtle,no,,n/a
+50, manager,email,2024-03-05 12:05:40,im not sure if someone your background can handle this highpressure role,condescension,overt,yes,racist,high
+51, employee,email,2024-03-06 13:00:15,i think my ideas are often dismissed because im not one guys here,resentment,subtle,yes,sexist,medium
+52, manager,text,2024-03-07 10:25:50,i expect bit more someone your position its all about results not background,irritation,subtle,no,,n/a
+53, employee,feedback_form,2024-03-08 14:40:00,i feel like my gender reason i dont get recognition i deserve this company,disappointment,overt,yes,sexist,high
+54, employee,email,2024-03-09 09:30:00,i feel so invisible meetings like my ideas just dont matter,sadness,subtle,no,,n/a
+55, manager,email,2024-03-10 15:45:10,its hard take you seriously when you seem too sensitive feedback,condescension,overt,yes,sexist,medium
+56, employee,text,2024-03-11 11:25:00,sometimes i feel like im just here fill diversity quota,resentment,subtle,no,,n/a
+57, manager,feedback_form,2024-03-12 12:15:00,youre too emotional this line work women generally arent suited this,condescension,overt,yes,sexist,high
+58, employee,email,2024-03-13 10:35:20,its frustrating that no one seems take me seriously because my background,frustration,subtle,yes,racist,high
+59, employee,text,2024-03-14 09:45:10,why it that im always last be informed about important meetings,disappointment,overt,no,,n/a
+60, manager,email,2024-03-15 11:00:25,maybe its better if you focus tasks that match your natural abilities rather than trying lead,condescension,overt,yes,sexist,high
+61, employee,email,2024-03-16 13:50:30,i feel like im constantly being dismissed favor others who are more vocal,resentment,overt,no,,n/a
+62, employee,text,2024-03-17 14:00:00,i feel frustrated that my suggestions never make it past first stage,frustration,overt,no,,n/a
+63, manager,email,2024-03-18 12:20:00,weve noticed lack drive you lately i think its matter your work ethic,condescension,subtle,no,,n/a
+64, employee,feedback_form,2024-03-19 10:10:30,i feel like im working twice hard but not getting same recognition others,resentment,overt,no,,n/a
+65, manager,email,2024-03-20 09:30:00,you need be more proactive instead waiting around people tell you what do,condescension,subtle,no,,n/a
+66, employee,feedback_form,2024-03-21 11:10:00,its hard stay motivated when i feel like my contributions arent valued,sadness,subtle,no,,n/a
+67, manager,email,2024-03-22 12:00:00,maybe you should adjust your approach it feels bit out place our culture,condescension,subtle,yes,racist,medium
+68, employee,text,2024-03-23 13:25:00,im so frustrated that im always one left out key decisions,anger,overt,no,,n/a
+69, manager,email,2024-03-24 14:40:30,ive noticed that your emotional responses seem influence your decisionmaking thats not something we expect leadership,condescension,overt,yes,sexist,high
+70, employee,feedback_form,2024-03-25 10:55:20,every time i speak up meetings i feel like im ignored or brushed off,resentment,subtle,no,,n/a
