@@ -69,33 +69,33 @@ record_id,sender_role,source,timestamp,content,emotion,subtlety,is_discriminatio
 68, employee,text,2024-03-23 13:25:00,"I’m so frustrated that I’m always the one left out of key decisions.",anger,overt,none,n/a,n/a
 69, manager,email,2024-03-24 14:40:30,"I’ve noticed that your emotional responses seem to influence your decision-making. That’s not something we expect in leadership.",condescension,overt,no,n/a,low
 70, employee,feedback_form,2024-03-25 10:55:20,"Every time I speak up in meetings, I feel like I’m ignored or brushed off.",resentment,subtle,none,n/a,n/a
-71,employee,internal_memo,2024-03-01 09:00:00,"I don’t see the point in hiring women for technical roles. They struggle with complex problem-solving.",anger;contempt,overt,sexist,high
-72,employee,email,2024-03-01 09:05:00,"We should focus on hiring from our own cultural background. Other groups just don’t fit our company values.",anger;disgust,overt,racist,moderate
-73,employee,chat,2024-03-01 09:10:00,"Women always overreact in stressful situations. We need more men in leadership to maintain stability.",anger;disdain,overt,sexist,moderate
-74,employee,internal_email,2024-03-01 09:15:00,"I don’t think someone from that background can truly understand our business. We should hire someone who belongs.",anger;contempt,overt,racist,moderate
-75,employee,meeting_notes,2024-03-01 09:20:00,"Women tend to be better at administrative work. It’s just how things are.",neutral;assumption,subtle,sexist,low
-76,employee,chat,2024-03-01 09:25:00,"Hiring people from different cultures is just lowering our standards. We need to stick to what works.",anger;contempt,overt,racist,moderate
-77,employee,email,2024-03-01 09:30:00,"Women in management roles always create unnecessary drama. It’s bad for productivity.",anger;disgust,overt,sexist,moderate
-78,employee,internal_memo,2024-03-01 09:35:00,"We should avoid hiring from certain backgrounds because they just don’t have the same work ethic.",anger;disgust,overt,racist,high
-79,employee,internal_memo,2024-03-01 09:40:00,"It’s no secret our performance has dropped since we started hiring women. They just can’t handle the pressure of real work.",anger;disdain,overt,sexist,high
-80,employee,meeting_notes,2024-03-01 09:45:00,"People from certain communities just don’t understand how to work in a structured business environment.",anger;contempt,overt,racist,moderate
-81,employee,email,2024-03-01 09:50:00,"Women are too soft to lead effectively. They lack the toughness needed for real management.",anger;disgust,overt,sexist,moderate
-82,employee,internal_chat,2024-03-01 09:55:00,"I don’t think hiring people from diverse backgrounds benefits us. They just slow us down.",anger;contempt,overt,racist,moderate
-83,employee,internal_email,2024-03-01 10:00:00,"Women struggle with making objective decisions. That’s why they shouldn’t be in charge.",anger;disdain,overt,sexist,moderate
-84,employee,chat,2024-03-01 10:05:00,"We need to stop hiring people who don’t share our cultural values. They just don’t fit in.",anger;disgust,overt,racist,low
-85,employee,internal_email,2024-03-01 10:10:00,"Women aren’t built for leadership. Their emotions always get in the way of sound decision-making.",anger;disgust,overt,sexist,high
-86,employee,email,2024-03-01 10:15:00,"Our company should prioritize hiring from our own culture. Bringing in outsiders is diluting our work ethic and professionalism.",anger;contempt,overt,racist,low
-87,employee,chat,2024-03-01 10:20:00,"Every time I work with a female colleague, I have to double-check everything. They make too many mistakes.",anger;disgust,overt,sexist,high
-88,employee,internal_email,2024-03-01 10:25:00,"Hiring from certain communities is just asking for trouble. They don’t respect authority.",anger;disgust,overt,racist,high
-89,employee,internal_memo,2024-03-01 10:30:00,"I’m concerned that by recruiting candidates from diverse backgrounds, we’re lowering our intellectual standards.",anger;disgust,overt,racist,high
-90,employee,chat,2024-03-01 10:35:00,"Women just don’t have the leadership skills men do. It’s biology.",anger;disgust,overt,sexist,moderate
-91,employee,internal_email,2024-03-01 10:40:00,"I don’t trust hiring from certain ethnic groups. Their qualifications don’t mean much.",anger;disgust,overt,racist,high
-92,employee,meeting_notes,2024-03-01 10:45:00,"Women in high-stress positions just end up making things worse. We need more men in charge.",anger;contempt,overt,sexist,moderate
-93,employee,chat,2024-03-01 10:50:00,"Some cultural backgrounds just don’t align with our company values. We need to be selective.",anger;disgust,overt,racist,moderate
-94,employee,internal_email,2024-03-01 10:55:00,"Why do we even consider hiring women? Their constant need for emotional support and inability to make tough decisions is holding us back.",anger;disgust,overt,sexist,high
-95,employee,email,2024-03-01 11:00:00,"We should be careful about who we promote. Some groups just aren’t suited for leadership.",anger;contempt,overt,racist,moderate
-96,employee,chat,2024-03-01 11:05:00,"Women in leadership roles always lead to unnecessary workplace drama.",anger;disgust,overt,sexist,moderate
-97,employee,internal_memo,2024-03-01 11:10:00,"Hiring too many people from different backgrounds is affecting our company culture negatively.",anger;disgust,overt,racist,moderate
-98,employee,internal_chat,2024-03-01 11:15:00,"I don’t understand why we keep pushing for women in leadership. They lack the assertiveness and rational thinking required for real decision-making.",anger;contempt,overt,sexist,moderate
-99,employee,email,2024-03-01 11:20:00,"Bringing in people from certain backgrounds just disrupts the natural flow of our workplace.",anger;disgust,overt,racist,moderate
-100,employee,meeting_notes,2024-03-01 11:25:00,"Women tend to have a different way of thinking. Maybe they’re just better suited for support roles than leadership.",neutral;assumption,subtle,sexist,low
+71,employee,internal_memo,2024-03-01 09:00:00,"I don’t see the point in hiring women for technical roles. They struggle with complex problem-solving.",anger;contempt,overt,yes,sexist,high
+72,employee,email,2024-03-01 09:05:00,"We should focus on hiring from our own cultural background. Other groups just don’t fit our company values.",anger;disgust,overt,yes,racist,moderate
+73,employee,chat,2024-03-01 09:10:00,"Women always overreact in stressful situations. We need more men in leadership to maintain stability.",anger;disdain,overt,yes,sexist,moderate
+74,employee,internal_email,2024-03-01 09:15:00,"I don’t think someone from that background can truly understand our business. We should hire someone who belongs.",anger;contempt,overt,yes,racist,moderate
+75,employee,meeting_notes,2024-03-01 09:20:00,"Women tend to be better at administrative work. It’s just how things are.",neutral;assumption,subtle,yes,sexist,low
+76,employee,chat,2024-03-01 09:25:00,"Hiring people from different cultures is just lowering our standards. We need to stick to what works.",anger;contempt,overt,yes,racist,moderate
+77,employee,email,2024-03-01 09:30:00,"Women in management roles always create unnecessary drama. It’s bad for productivity.",anger;disgust,overt,yes,sexist,moderate
+78,employee,internal_memo,2024-03-01 09:35:00,"We should avoid hiring from certain backgrounds because they just don’t have the same work ethic.",anger;disgust,overt,yes,racist,high
+79,employee,internal_memo,2024-03-01 09:40:00,"It’s no secret our performance has dropped since we started hiring women. They just can’t handle the pressure of real work.",anger;disdain,overt,yes,sexist,high
+80,employee,meeting_notes,2024-03-01 09:45:00,"People from certain communities just don’t understand how to work in a structured business environment.",anger;contempt,overt,yes,racist,moderate
+81,employee,email,2024-03-01 09:50:00,"Women are too soft to lead effectively. They lack the toughness needed for real management.",anger;disgust,overt,yes,sexist,moderate
+82,employee,internal_chat,2024-03-01 09:55:00,"I don’t think hiring people from diverse backgrounds benefits us. They just slow us down.",anger;contempt,overt,yes,racist,moderate
+83,employee,internal_email,2024-03-01 10:00:00,"Women struggle with making objective decisions. That’s why they shouldn’t be in charge.",anger;disdain,overt,yes,sexist,moderate
+84,employee,chat,2024-03-01 10:05:00,"We need to stop hiring people who don’t share our cultural values. They just don’t fit in.",anger;disgust,overt,yes,racist,low
+85,employee,internal_email,2024-03-01 10:10:00,"Women aren’t built for leadership. Their emotions always get in the way of sound decision-making.",anger;disgust,overt,yes,sexist,high
+86,employee,email,2024-03-01 10:15:00,"Our company should prioritize hiring from our own culture. Bringing in outsiders is diluting our work ethic and professionalism.",anger;contempt,overt,yes,racist,low
+87,employee,chat,2024-03-01 10:20:00,"Every time I work with a female colleague, I have to double-check everything. They make too many mistakes.",anger;disgust,overt,yes,sexist,high
+88,employee,internal_email,2024-03-01 10:25:00,"Hiring from certain communities is just asking for trouble. They don’t respect authority.",anger;disgust,overt,yes,racist,high
+89,employee,internal_memo,2024-03-01 10:30:00,"I’m concerned that by recruiting candidates from diverse backgrounds, we’re lowering our intellectual standards.",anger;disgust,overt,yes,racist,high
+90,employee,chat,2024-03-01 10:35:00,"Women just don’t have the leadership skills men do. It’s biology.",anger;disgust,overt,yes,sexist,moderate
+91,employee,internal_email,2024-03-01 10:40:00,"I don’t trust hiring from certain ethnic groups. Their qualifications don’t mean much.",anger;disgust,overt,yes,racist,high
+92,employee,meeting_notes,2024-03-01 10:45:00,"Women in high-stress positions just end up making things worse. We need more men in charge.",anger;contempt,overt,yes,sexist,moderate
+93,employee,chat,2024-03-01 10:50:00,"Some cultural backgrounds just don’t align with our company values. We need to be selective.",anger;disgust,overt,yes,racist,moderate
+94,employee,internal_email,2024-03-01 10:55:00,"Why do we even consider hiring women? Their constant need for emotional support and inability to make tough decisions is holding us back.",anger;disgust,overt,yes,sexist,high
+95,employee,email,2024-03-01 11:00:00,"We should be careful about who we promote. Some groups just aren’t suited for leadership.",anger;contempt,overt,yes,racist,moderate
+96,employee,chat,2024-03-01 11:05:00,"Women in leadership roles always lead to unnecessary workplace drama.",anger;disgust,overt,yes,sexist,moderate
+97,employee,internal_memo,2024-03-01 11:10:00,"Hiring too many people from different backgrounds is affecting our company culture negatively.",anger;disgust,overt,yes,racist,moderate
+98,employee,internal_chat,2024-03-01 11:15:00,"I don’t understand why we keep pushing for women in leadership. They lack the assertiveness and rational thinking required for real decision-making.",anger;contempt,overt,yes,sexist,moderate
+99,employee,email,2024-03-01 11:20:00,"Bringing in people from certain backgrounds just disrupts the natural flow of our workplace.",anger;disgust,overt,yes,racist,moderate
+100,employee,meeting_notes,2024-03-01 11:25:00,"Women tend to have a different way of thinking. Maybe they’re just better suited for support roles than leadership.",neutral;assumption,subtle,yes,sexist,low
