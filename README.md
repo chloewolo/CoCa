@@ -29,7 +29,7 @@ We trained AI sentiment models on artificial workplace communication data using 
 
 ## Presentation
 
-Click [here](Coca.pdf) to see our full hackathon deck!
+Click [here](./Coca.pdf) to see our full hackathon deck!
 
 ## Evaluation
 
